@@ -1,8 +1,8 @@
 export const detalleCard = [
   {
     icono: "fa-cloud-download",
-    texto1: "+ de 3.5 mil millones",
-    texto2: "de activaciones",
+    texto1: "+ de 3 millones",
+    texto2: "de activaciones en Argentina y España",
   },
   {
     icono: " fa-mobile",
