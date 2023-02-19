@@ -3,7 +3,7 @@ import React from "react";
 const CardApp = ({ item, darkMode }) => {
   return (
     <div className="col-12 col-md ">
-      <div className={`card ${darkMode && "text-bg-dark"}`}>
+      <div className={`card ${darkMode && "text-bg-dark"} mb-4 mb-md-0`}>
         <div className="card-body d-flex flex-column align-items-center">
           <i
             className={`fa ${item.icono} fa-4x text-primary`}
