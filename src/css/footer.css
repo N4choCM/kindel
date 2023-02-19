@@ -1,0 +1,7 @@
+.finger{
+    cursor: pointer;
+}
+
+.finger:hover{
+    color: #1067ff;
+}
